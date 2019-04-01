@@ -14,10 +14,6 @@ const routes = [
   {
     path: 'authCheck',
     component: asyncComponent(() => import('../AuthCheck')),
-  },
-  {
-    path: 'authCheck2',
-    component: asyncComponent(() => import('../Shuffle')),
   }
 ];
 
