@@ -8,6 +8,7 @@ export default class extends Component {
       <LayoutContentWrapper style={{ height: '100vh' }}>
         <LayoutContent>
           <h1>ISOMORPHIC DASHBOARD HOME</h1>
+            <h3>Testando Git-Flow</h3>
         </LayoutContent>
       </LayoutContentWrapper>
     );
